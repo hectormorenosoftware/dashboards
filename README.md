@@ -5,4 +5,4 @@ To install dependencies
 npm install
 
 To run type in the root
-nodemon index.js
+node index.js
