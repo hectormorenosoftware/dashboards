@@ -1,0 +1,25 @@
+{
+  "nike@gmail.com": { "orders": [] },
+  "bestbuy@gmail.com": { "orders": [] },
+  "homedepot@gmail.com": { "orders": [] },
+  "express@gmail.com": { "orders": [] },
+  "jackinthebox@gmail.com": { "orders": [] },
+  "chickfila@gmail.com": { "orders": [] },
+  "sony@gmail.com": { "orders": [] },
+  "tysons@gmail.com": { "orders": [] },
+  "apple@gmail.com": {
+    "orders": [
+      {
+        "name": "Jocely",
+        "lastName": "Reyes",
+        "id": 941688,
+        "time": "2021-12-28 8:16:24",
+        "type": "iMac",
+        "phoneNumber": "202-304-3003",
+        "email": "jocely@gmail.com"
+      }
+    ]
+  },
+  "google@gmail.com": { "orders": [] },
+  "microsoft@gmail.com": { "orders": [] }
+}

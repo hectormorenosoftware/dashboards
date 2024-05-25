@@ -1,0 +1,739 @@
+{
+  "nike@gmail.com": {
+    "email": "nike@gmail.com",
+    "username": "nikecorporatesales",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "Y",
+    "businessName": "Nike Corporate Sales",
+    "businessNumber": "619-909-4905",
+    "businessType": "sales",
+    "dateOfPurchase": "12/24/2021",
+    "dateOfExpiration": "1/23/2022",
+    "firstColor": "#dc2430",
+    "secondColor": "#1e2761",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "nikecorporatesales7.jpeg",
+      "marketingImageExt": "jpeg",
+      "marketingImage": "http://localhost:5000/images/nikecorporatesales7.jpeg",
+      "marketingText": "2 for 1 sale",
+      "marketingTitle": "Nike Corporate Sales",
+      "category": "Fitness"
+    },
+    "userProducts": [
+      {
+        "image": "http://localhost:5000/images/nikecorporatesales1.jpg",
+        "imageName": "nikecorporatesales1.jpg",
+        "titleOfProduct": "Free Run 1.0",
+        "priceOfProduct": "30",
+        "fileExt": "jpg"
+      },
+      {
+        "image": "http://localhost:5000/images/nikecorporatesales2.jpeg",
+        "imageName": "nikecorporatesales2.jpeg",
+        "titleOfProduct": "Free Run 2.0",
+        "priceOfProduct": "30",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/nikecorporatesales3.jpg",
+        "imageName": "nikecorporatesales3.jpg",
+        "titleOfProduct": "Free Run 3.0",
+        "priceOfProduct": "30",
+        "fileExt": "jpg"
+      },
+      {
+        "image": "http://localhost:5000/images/nikecorporatesales4.jpeg",
+        "imageName": "nikecorporatesales4.jpeg",
+        "titleOfProduct": "Free Run 4.0",
+        "priceOfProduct": "30",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/nikecorporatesales5.jpg",
+        "imageName": "nikecorporatesales5.jpg",
+        "titleOfProduct": "Free Run 5.0",
+        "priceOfProduct": "30",
+        "fileExt": "jpg"
+      },
+      {
+        "image": "http://localhost:5000/images/nikecorporatesales6.jpg",
+        "imageName": "nikecorporatesales6.jpg",
+        "titleOfProduct": "Free Run 7.0",
+        "priceOfProduct": "30",
+        "fileExt": "jpg"
+      }
+    ]
+  },
+  "apple@gmail.com": {
+    "email": "apple@gmail.com",
+    "username": "applecorporatesales",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "Y",
+    "businessName": "Apple Corporate Sales",
+    "businessNumber": "619-689-0989",
+    "businessType": "sales",
+    "dateOfPurchase": "12/24/2021",
+    "dateOfExpiration": "1/23/2022",
+    "firstColor": "#000000",
+    "secondColor": "#000000",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "applecorporatesales7.jpeg",
+      "marketingImageExt": "jpeg",
+      "marketingImage": "http://localhost:5000/images/applecorporatesales7.jpeg",
+      "marketingText": "30% off",
+      "marketingTitle": "Apple Corporate Sales",
+      "category": "Electronics"
+    },
+    "userProducts": [
+      {
+        "image": "http://localhost:5000/images/applecorporatesales1.jpg",
+        "imageName": "applecorporatesales1.jpg",
+        "titleOfProduct": "Apple TV",
+        "priceOfProduct": "40",
+        "fileExt": "jpg"
+      },
+      {
+        "image": "http://localhost:5000/images/applecorporatesales2.jpg",
+        "imageName": "applecorporatesales2.jpg",
+        "titleOfProduct": "iMac",
+        "priceOfProduct": "50",
+        "fileExt": "jpg"
+      },
+      {
+        "image": "http://localhost:5000/images/applecorporatesales3.jpeg",
+        "imageName": "applecorporatesales3.jpeg",
+        "titleOfProduct": "iPad Air",
+        "priceOfProduct": "20",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/applecorporatesales4.jpeg",
+        "imageName": "applecorporatesales4.jpeg",
+        "titleOfProduct": "Macbook Air",
+        "priceOfProduct": "40",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/applecorporatesales5.jpeg",
+        "imageName": "applecorporatesales5.jpeg",
+        "titleOfProduct": "iPod",
+        "priceOfProduct": "30",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/applecorporatesales6.jpg",
+        "imageName": "applecorporatesales6.jpg",
+        "titleOfProduct": "iPod Nano",
+        "priceOfProduct": "50",
+        "fileExt": "jpg"
+      }
+    ]
+  },
+  "sony@gmail.com": {
+    "email": "sony@gmail.com",
+    "username": "sonycorporatesales",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "Y",
+    "businessName": "Sony Corporate Sales",
+    "businessNumber": "619-394-4959",
+    "businessType": "sales",
+    "dateOfPurchase": "12/24/2021",
+    "dateOfExpiration": "1/23/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "sonycorporatesales7.jpg",
+      "marketingImageExt": "jpg",
+      "marketingImage": "http://localhost:5000/images/sonycorporatesales7.jpg",
+      "marketingText": "30% off",
+      "marketingTitle": "Sony Corporate Sales",
+      "category": "Electrician"
+    },
+    "userProducts": [
+      {
+        "image": "http://localhost:5000/images/sonycorporatesales1.jpg",
+        "imageName": "sonycorporatesales1.jpg",
+        "titleOfProduct": "Play Station 4",
+        "priceOfProduct": "100",
+        "fileExt": "jpg"
+      },
+      {
+        "image": "http://localhost:5000/images/sonycorporatesales2.jpeg",
+        "imageName": "sonycorporatesales2.jpeg",
+        "titleOfProduct": "Play Station 5",
+        "priceOfProduct": "150",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/sonycorporatesales3.jpeg",
+        "imageName": "sonycorporatesales3.jpeg",
+        "titleOfProduct": "Nintendo Switch",
+        "priceOfProduct": "48",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/sonycorporatesales4.jpeg",
+        "imageName": "sonycorporatesales4.jpeg",
+        "titleOfProduct": "Nintendo 3DS",
+        "priceOfProduct": "50",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/sonycorporatesales5.jpeg",
+        "imageName": "sonycorporatesales5.jpeg",
+        "titleOfProduct": "Game Cube",
+        "priceOfProduct": "30",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/sonycorporatesales6.jpeg",
+        "imageName": "sonycorporatesales6.jpeg",
+        "titleOfProduct": "Xbox",
+        "priceOfProduct": "40",
+        "fileExt": "jpeg"
+      }
+    ]
+  },
+  "bestbuy@gmail.com": {
+    "email": "bestbuy@gmail.com",
+    "username": "bestbuycorporatesales",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "N",
+    "businessName": "",
+    "businessNumber": "",
+    "businessType": "",
+    "dateOfPurchase": "12/25/2021",
+    "dateOfExpiration": "1/24/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "",
+      "marketingImageExt": "",
+      "marketingImage": "",
+      "marketingText": "",
+      "marketingTitle": "",
+      "category": ""
+    },
+    "userProducts": [
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      }
+    ]
+  },
+  "homedepot@gmail.com": {
+    "email": "homedepot@gmail.com",
+    "username": "homedepotcorporate",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "N",
+    "businessName": "",
+    "businessNumber": "",
+    "businessType": "",
+    "dateOfPurchase": "12/25/2021",
+    "dateOfExpiration": "1/24/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "",
+      "marketingImageExt": "",
+      "marketingImage": "",
+      "marketingText": "",
+      "marketingTitle": "",
+      "category": ""
+    },
+    "userProducts": [
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      }
+    ]
+  },
+  "express@gmail.com": {
+    "email": "express@gmail.com",
+    "username": "expresscorporate",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "N",
+    "businessName": "",
+    "businessNumber": "",
+    "businessType": "",
+    "dateOfPurchase": "12/25/2021",
+    "dateOfExpiration": "1/24/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "",
+      "marketingImageExt": "",
+      "marketingImage": "",
+      "marketingText": "",
+      "marketingTitle": "",
+      "category": ""
+    },
+    "userProducts": [
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      }
+    ]
+  },
+  "jackinthebox@gmail.com": {
+    "email": "jackinthebox@gmail.com",
+    "username": "jackintheboxcorporate",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "N",
+    "businessName": "",
+    "businessNumber": "",
+    "businessType": "",
+    "dateOfPurchase": "12/25/2021",
+    "dateOfExpiration": "1/24/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "",
+      "marketingImageExt": "",
+      "marketingImage": "",
+      "marketingText": "",
+      "marketingTitle": "",
+      "category": ""
+    },
+    "userProducts": [
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      }
+    ]
+  },
+  "chickfila@gmail.com": {
+    "email": "chickfila@gmail.com",
+    "username": "chickfilacoporatesales",
+    "password": "Tesing54",
+    "paidSubscription": "Y",
+    "published": "N",
+    "businessName": "",
+    "businessNumber": "",
+    "businessType": "",
+    "dateOfPurchase": "12/26/2021",
+    "dateOfExpiration": "1/25/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "",
+      "marketingImageExt": "",
+      "marketingImage": "",
+      "marketingText": "",
+      "marketingTitle": "",
+      "category": ""
+    },
+    "userProducts": [
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      }
+    ]
+  },
+  "tysons@gmail.com": {
+    "email": "tysons@gmail.com",
+    "username": "tysonschicken",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "N",
+    "businessName": "",
+    "businessNumber": "",
+    "businessType": "",
+    "dateOfPurchase": "12/26/2021",
+    "dateOfExpiration": "1/25/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "",
+      "marketingImageExt": "",
+      "marketingImage": "",
+      "marketingText": "",
+      "marketingTitle": "",
+      "category": ""
+    },
+    "userProducts": [
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      }
+    ]
+  },
+  "microsoft@gmail.com": {
+    "email": "microsoft@gmail.com",
+    "username": "microsoftcorporate",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "Y",
+    "businessName": "Microsoft Corporate Sales",
+    "businessNumber": "202-394-3949",
+    "businessType": "sales",
+    "dateOfPurchase": "12/30/2021",
+    "dateOfExpiration": "1/29/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "microsoftcorporate7.jpeg",
+      "marketingImageExt": "jpeg",
+      "marketingImage": "http://localhost:5000/images/microsoftcorporate7.jpeg",
+      "marketingText": "15% off all items",
+      "marketingTitle": "Microsoft Corporate Sales",
+      "category": "Electronics"
+    },
+    "userProducts": [
+      {
+        "image": "http://localhost:5000/images/microsoftcorporate1.jpeg",
+        "imageName": "microsoftcorporate1.jpeg",
+        "titleOfProduct": "Surface",
+        "priceOfProduct": "50",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/microsoftcorporate2.jpeg",
+        "imageName": "microsoftcorporate2.jpeg",
+        "titleOfProduct": "Surface Two",
+        "priceOfProduct": "40",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/microsoftcorporate3.jpeg",
+        "imageName": "microsoftcorporate3.jpeg",
+        "titleOfProduct": "Surface Three",
+        "priceOfProduct": "45",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/microsoftcorporate4.jpg",
+        "imageName": "microsoftcorporate4.jpg",
+        "titleOfProduct": "Microsoft Phone",
+        "priceOfProduct": "40",
+        "fileExt": "jpg"
+      },
+      {
+        "image": "http://localhost:5000/images/microsoftcorporate5.jpeg",
+        "imageName": "microsoftcorporate5.jpeg",
+        "titleOfProduct": "Microsoft Office",
+        "priceOfProduct": "20",
+        "fileExt": "jpeg"
+      },
+      {
+        "image": "http://localhost:5000/images/microsoftcorporate6.jpeg",
+        "imageName": "microsoftcorporate6.jpeg",
+        "titleOfProduct": "Zune",
+        "priceOfProduct": "20",
+        "fileExt": "jpeg"
+      }
+    ]
+  },
+  "google@gmail.com": {
+    "email": "google@gmail.com",
+    "username": "googlecorporatesales",
+    "password": "Testing54",
+    "paidSubscription": "Y",
+    "published": "N",
+    "businessName": "",
+    "businessNumber": "",
+    "businessType": "",
+    "dateOfPurchase": "12/30/2021",
+    "dateOfExpiration": "1/29/2022",
+    "firstColor": "#1d2671",
+    "secondColor": "#19547b",
+    "titleColor": "#FFFFFF",
+    "marketingData": {
+      "marketingImageName": "",
+      "marketingImageExt": "",
+      "marketingImage": "",
+      "marketingText": "",
+      "marketingTitle": "",
+      "category": ""
+    },
+    "userProducts": [
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      },
+      {
+        "image": "",
+        "imageName": "",
+        "titleOfProduct": "",
+        "priceOfProduct": "",
+        "fileExt": ""
+      }
+    ]
+  }
+}
