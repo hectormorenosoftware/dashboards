@@ -253,7 +253,7 @@ function editorReducerDemo(state = INTIAL_STATE, action) {
     case CHANGE_FOURTH_IMAGE_PRICE:
       return { ...state, fourthImagePrice: action.payload };
     case CHANGE_FIFTH_IMAGE_PRICE:
-      return { ...state, firstImagePrice: action.payload };
+      return { ...state, fifthImagePrice: action.payload };
     case CHANGE_SIXTH_IMAGE_PRICE:
       return { ...state, sixthImagePrice: action.payload };
     case CHANGE_MARKETING_IMAGE_TITLE:
