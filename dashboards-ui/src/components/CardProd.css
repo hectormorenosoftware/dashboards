@@ -1,0 +1,120 @@
+.Card-Prod {
+  width: 300px;
+  height: 225px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  transition: 0.1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.Card-Prod img {
+  position: absolute;
+  top: 0;
+  height: 110%;
+  z-index: -1;
+  transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+  width: 100%;
+}
+
+.Card-Prod p {
+  color: rgba(255, 255, 255, 0.8);
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 18px;
+  align-self: end;
+  margin: 0 0 20px 20px;
+}
+
+@media only screen and (max-width: 399px) {
+  .Card-Prod {
+    width: 295px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .Card-Prod {
+    width: 280px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .Card-Prod {
+    width: 270px;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .Card-Prod {
+    width: 255px;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .Card-Prod {
+    width: 250px;
+  }
+}
+
+@media only screen and (max-width: 340px) {
+  .Card-Prod {
+    width: 240px;
+  }
+}
+
+@media only screen and (max-width: 335px) {
+  .Card-Prod {
+    width: 235px;
+  }
+}
+
+@media only screen and (max-width: 330px) {
+  .Card-Prod {
+    width: 230px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .Card-Prod {
+    width: 220px;
+  }
+}
+
+@media only screen and (max-width: 310px) {
+  .Card-Prod {
+    width: 210px;
+  }
+}
+
+@media only screen and (max-width: 305px) {
+  .Card-Prod {
+    width: 200px;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .Card-Prod {
+    width: 195px;
+  }
+}
+
+@media only screen and (max-width: 290px) {
+  .Card-Prod {
+    width: 190px;
+  }
+}
+
+@media only screen and (max-width: 285px) {
+  .Card-Prod {
+    width: 185px;
+  }
+}
+
+@media only screen and (max-width: 280px) {
+  .Card-Prod {
+    width: 180px;
+  }
+}
